@@ -1,0 +1,11 @@
+/build/
+/junk/
+/*.nds
+/*.gba
+*.o
+*.elf
+*.sav
+*.bak
+.DS_Store
+*.swp
+*.swo
