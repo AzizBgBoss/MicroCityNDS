@@ -1,5 +1,6 @@
 # MicroCityNDS
-A port of MicroCity by AzizBgBoss to the NDS, original Arduboy game by jhhoward.
+A port of MicroCity by AzizBgBoss to the NDS, original Arduboy game by jhhoward.<br>
+[![Downloads](https://img.shields.io/github/downloads/AzizBgBoss/MicroCityNDS/total.svg?label=downloads)](https://github.com/AzizBgBoss/MicroCityNDS/releases)
 
 ## What did I change?
 - Ported to NDS (obviously lol).
